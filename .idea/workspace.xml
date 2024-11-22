@@ -5,7 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5adf3859-ee81-4f8a-801a-0524187564ac" name="Changes" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/.idea/LocalLibrary.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/locallibrary/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/locallibrary/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/locallibrary/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/locallibrary/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/locallibrary/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+>>>>>>> 5a672ac8984e518c98c34880054135d329cfe795
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,14 +62,21 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+<<<<<<< HEAD
     "git-widget-placeholder": "main",
     "last_opened_file_path": "D:/cods/LocalLibrary-main",
+=======
+    "git-widget-placeholder": "master",
+>>>>>>> 5a672ac8984e518c98c34880054135d329cfe795
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+<<<<<<< HEAD
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+=======
+>>>>>>> 5a672ac8984e518c98c34880054135d329cfe795
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -65,10 +98,13 @@
       <updated>1732157124610</updated>
       <workItem from="1732157126507" duration="117000" />
       <workItem from="1732157260897" duration="1379000" />
+<<<<<<< HEAD
       <workItem from="1732271954326" duration="485000" />
       <workItem from="1732272445713" duration="5000" />
       <workItem from="1732272462680" duration="621000" />
       <workItem from="1732273198061" duration="1918000" />
+=======
+>>>>>>> 5a672ac8984e518c98c34880054135d329cfe795
     </task>
     <servers />
   </component>
